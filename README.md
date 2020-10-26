@@ -16,9 +16,9 @@ Where you are located
 A description that shows your passion for web development and your willingness to work with others, 
 One or two sentences that describe other interests you have outside of web development
 * A Contact section that contains the following information:
-1. One A link to your LinkedIn profile
-2. Two A link to your GitHub profile
-3. Three A link to your email (optional)
+1. A link to your LinkedIn profile
+2. A link to your GitHub profile
+3. A link to your email (optional)
 
 ## Technical requirements
 Your portfolio must be hosted on GitHub Pages, and it must include the following technical elements:
