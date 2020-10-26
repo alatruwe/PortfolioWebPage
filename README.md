@@ -10,10 +10,10 @@ In this assignment, you'll build a simple web portfolio to serve as your online 
 * Content that is clear and readable
 
 * An Intro section that contains the following information:
-Who you are
+Who you are, 
 Where you are located
 * An About Me section that contains the following information:
-A description that shows your passion for web development and your willingness to work with others
+A description that shows your passion for web development and your willingness to work with others, 
 One or two sentences that describe other interests you have outside of web development
 * A Contact section that contains the following information:
 1. One A link to your LinkedIn profile
