@@ -3,7 +3,7 @@ Thinkful bootcamp - Module 8 HTML/CSS Fundamentals Portfolio Assignment
 
 In this assignment, you'll build a simple web portfolio to serve as your online business card.
 
-##Content requirements
+## Content requirements
 
 * HTML code that is semantic and valid
 * CSS code that has been written by you, without the use of templates
@@ -20,7 +20,7 @@ One or two sentences that describe other interests you have outside of web devel
 2. Two A link to your GitHub profile
 3. Three A link to your email (optional)
 
-##Technical requirements
+## Technical requirements
 Your portfolio must be hosted on GitHub Pages, and it must include the following technical elements:
 
 * The following HTML elements:
