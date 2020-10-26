@@ -1,0 +1,47 @@
+ /* background page  */
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: #A0C1D1;
+  color: #3E517A;
+  text-align: center;
+}
+
+header, footer {
+  background-color: #3E517A;
+  color: #A0C1D1;
+  font-size: 20px;
+  padding: 3px;
+
+}
+ /* photo  */
+.profile-photo {
+  border-radius: 8%;
+}
+ /* main content  */
+.wrapper {
+  margin: auto;
+  padding: 20px;
+  height: 50%;
+  width: 50%;
+  font-size: 20px;
+}
+
+hr {
+  height: 2px;
+  border-top: 1px solid #3E517A;
+  border-bottom:1px solid #3E517A;
+}
+
+.about-me {
+  text-align: justify;
+}
+
+ /* links */
+a {
+  padding: 10px;
+}
+
+a:link    { color:  #3E517A;  }
+a:visited { color: #BD8B9C;   }
+a:hover   { color: #AF125A; }
+a:active  { color: #750D37;  }
